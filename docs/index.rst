@@ -8,3 +8,4 @@ Hello World!
    :caption: Contents:
 
    intro
+   intro.rst
